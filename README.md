@@ -4,7 +4,7 @@
 
 MMGCN和DialogueRNN复现
 
-# MMGCN
+### MMGCN
 ```
 "MMGCN: Multimodal Fusion via Deep Graph Convolution Network for Emotion Recognition in Conversation"
 https://arxiv.org/pdf/2107.06779.pdf
